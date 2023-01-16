@@ -14,25 +14,27 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20 text-white">
-          I am a self-taught developer, 35 years old, from Ciudad Juarez,
-          Chihuahua, Mexico. I have one year of programming experience, but I
-          have been interested in technology all my life. My specialty is React,
-          Javascript, HTML and CSS, but I am also committed to learning new
-          technologies. Additionally, I am particularly interested in machine
-          learning and technologies like ChatGPT and Stable Diffusion. As a
-          proactive developer, my focus is on problem-solving and adapting to
-          new challenges. I am excited to continue growing in my career and
-          contributing to exciting projects.
+          I am a self-taught developer with 1 year of experience, specializing
+          in React, Javascript, HTML, and CSS. My passion for technology has
+          driven me to continuously learn and stay up-to-date with the latest
+          developments, including machine learning and technologies like ChatGPT
+          and Stable Diffusion. I am fluent in both English and Spanish, and
+          have experience creating comprehensive manuals for projects in both
+          languages. Additionally, I have experience in maintaining and
+          organizing inventory using Excel, and have implemented inventory
+          management systems that improved efficiency and accuracy at the
+          warehouse.
         </p>
 
         <br />
 
         <p className="text-xl text-white">
-          In my current work, I stand out for my consistency and dedication to
-          achieving set goals. I strive to deliver high-quality projects in
-          reasonable timelines. In my free time, I enjoy playing video games and
-          playing the guitar, I think these hobbies help me keep a fresh focus
-          and enrich my creativity in web development.
+          I am excited to continue growing in my career and contributing to
+          innovative projects. My consistency and dedication to achieving set
+          goals, along with my enthusiasm for learning and problem-solving, make
+          me an asset to any team. In my free time, I enjoy playing video games
+          and playing the guitar, which help me to keep a fresh focus and enrich
+          my creativity in web development.
         </p>
       </div>
     </div>
