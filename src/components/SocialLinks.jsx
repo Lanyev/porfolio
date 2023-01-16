@@ -37,10 +37,20 @@ const SocialLinks = () => {
       id: 4,
       child: (
         <>
-          Resume <BsFillPersonLinesFill size={30} />
+          Resume English <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "/CV Alan Yeverino English.pdf",
+      download: true,
+    },
+    {
+      id: 5,
+      child: (
+        <>
+          Resume Spanish <BsFillPersonLinesFill size={30} />
+        </>
+      ),
+      href: "/CV Alan Yeverino Spanish",
       style: "rounded-br-md",
       download: true,
     },
