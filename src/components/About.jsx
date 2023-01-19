@@ -13,28 +13,15 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20 text-white">
-          I am a self-taught developer with 1 year of experience, specializing
-          in React, Javascript, HTML, and CSS. My passion for technology has
-          driven me to continuously learn and stay up-to-date with the latest
-          developments, including machine learning and technologies like ChatGPT
-          and Stable Diffusion. I am fluent in both English and Spanish, and
-          have experience creating comprehensive manuals for projects in both
-          languages. Additionally, I have experience in maintaining and
-          organizing inventory using Excel, and have implemented inventory
-          management systems that improved efficiency and accuracy at the
-          warehouse.
-        </p>
-
-        <br />
-
-        <p className="text-xl text-white">
-          I am excited to continue growing in my career and contributing to
-          innovative projects. My consistency and dedication to achieving set
-          goals, along with my enthusiasm for learning and problem-solving, make
-          me an asset to any team. In my free time, I enjoy playing video games
-          and playing the guitar, which help me to keep a fresh focus and enrich
-          my creativity in web development.
+        <p className="text-xl mt-30 text-white">
+          Self-taught developer with 1 year of experience in React, Javascript,
+          HTML, and CSS. Passionate about technology, with a strong focus on
+          continuous learning, including machine learning and technologies like
+          ChatGPT and Stable Diffusion. Fluent in English and Spanish, with
+          experience in inventory management and project documentation. Strong
+          problem-solver, dedicated to achieving goals, and eager to contribute
+          to innovative projects. In my free time, I enjoy playing video games
+          and playing the guitar, which help me stay fresh and creative.
         </p>
       </div>
     </div>

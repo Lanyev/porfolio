@@ -7,19 +7,17 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="h-screen w-full bg-gradient-to-b from-emerald-700  to-emerald-700"
+      className="h-screen w-full  bg-gradient-to-b from-emerald-700  to-emerald-700"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white outline-black-2-black">
             I'm a Front End Developer
           </h2>
-          <p className="text-white py-4 max-w-md">
-            My experience with React, Javascript, HTML and CSS, coupled with my
-            self-motivated learning mindset, allows me to create efficient and
-            scalable web development solutions. I am a proactive developer with
-            a strong focus on problem-solving and an openness to adapt to new
-            challenges.
+          <p className="text-white sm:text-2xl py-4 max-w-md">
+            Proactive web developer with experience in React, Javascript, HTML
+            and CSS, skilled in creating efficient and scalable solutions.
+            Strong problem-solver with a self-motivated learning mindset.
           </p>
 
           <div>
