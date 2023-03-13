@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Resume English <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/CV Alan Yeverino English.pdf",
+      href: "/CV Alan Yeverino EN.pdf",
       download: true,
     },
     {
@@ -50,7 +50,7 @@ const SocialLinks = () => {
           Resume Spanish <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/CV Alan Yeverino Spanish",
+      href: "/CV Alan Yeverino ES",
       style: "rounded-br-md",
       download: true,
     },
